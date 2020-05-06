@@ -18,6 +18,8 @@ sudo apt-get install python3
 
 
 ## About
+Made by PapaSnags, feel free to follow me on Twitter and check out my website!
+</br>
 [Twitter](https://twitter.com/PapaSnags)
 </br>
 [Website](https://papa-snags.com)
