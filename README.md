@@ -1,8 +1,9 @@
 # Local-IP-Hostname-Resolver
 Discover Hosts on your network and resolve their hostname!
 <img src="https://i.imgur.com/WpNA6cY.png"/>
-<img src="LOCAL IP SCAN HERE"/>
+<img src="https://i.imgur.com/6HQhCi0.png"/>
 <img src="https://i.imgur.com/P0I2cew.png"/>
+<img src="https://i.imgur.com/a31RsQl.png"/>
 ## Requirements 
 This program requires Python3. Run the following commands depending on your configuation to check installed version.
 ```bash
@@ -15,7 +16,18 @@ To install python3 run the following command.
 sudo apt-get install python3
 ```
 ## Installation
-
+```bash
+git clone https://github.com/PapaSnags/Local-IP-Hostname-Resolver.git
+cd Local-IP-Hostname-Resolver
+```
+## Usage
+```bash
+python Resolver.py
+```
+or
+``` bash
+python3 Resolver.py
+```
 
 ## About
 Made by PapaSnags, feel free to follow me on Twitter and check out my website!
