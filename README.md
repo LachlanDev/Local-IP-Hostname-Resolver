@@ -15,8 +15,12 @@ To install python3 run the following command.
 ```bash
 sudo apt-get install python3
 ```
+## Important!
+This program was developed in Linux, I recommend using a linux operating system if you chose to uses this tool. Currently not working in windows 10. Thanks for your understanding!
+
 ## Installation
 ```bash
+pip install scapy
 git clone https://github.com/PapaSnags/Local-IP-Hostname-Resolver.git
 cd Local-IP-Hostname-Resolver
 ```
