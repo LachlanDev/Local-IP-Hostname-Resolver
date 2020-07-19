@@ -20,7 +20,7 @@ This program was developed in Linux, I recommend using a linux operating system 
 
 ## Installation
 ```bash
-pip install scapy
+pip3 install scapy
 git clone https://github.com/PapaSnags/Local-IP-Hostname-Resolver.git
 cd Local-IP-Hostname-Resolver
 ```
