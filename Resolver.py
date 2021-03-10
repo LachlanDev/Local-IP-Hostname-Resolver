@@ -76,11 +76,11 @@ while not end:
   if menu == 4:
     if not end:
         os.system('clear')
-        print("Made by PapaSnags")
-        print("Twitter: @PapaSnags")
-        print("GitHub: @PapaSnags")
-        print("Discord: Papa.Snags#1555")
-        print("Website: papa-snags.com")
+        print("Made by LachlanDev")
+        print("Twitter: @LachlanDev")
+        print("GitHub: @LachlanDev")
+        print("Discord: LachlanDev#8014")
+        print("Website: lachlan-dev.com")
         print("")
         print("1. Go back")
         opt = input("Please Select an option: ")
