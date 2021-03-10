@@ -21,7 +21,7 @@ This program was developed in Linux, I recommend using a linux operating system 
 ## Installation
 ```bash
 pip3 install scapy
-git clone https://github.com/PapaSnags/Local-IP-Hostname-Resolver.git
+git clone https://github.com/LachlanDev/Local-IP-Hostname-Resolver.git
 cd Local-IP-Hostname-Resolver
 ```
 ## Usage
@@ -34,11 +34,11 @@ python3 Resolver.py
 ```
 
 ## About
-Made by PapaSnags, feel free to follow me on Twitter and check out my website!
+Made by LachlanDev, feel free to follow me on Twitter and check out my website!
 </br>
-[Twitter](https://twitter.com/PapaSnags)
+[Twitter](https://twitter.com/LachlanDev)
 </br>
-[Website](https://papa-snags.com)
+[Website](https://lachlan-dev.com)
 
 
 ## Contributing
